@@ -56,3 +56,9 @@ table {
 	color: #efefef;
 	background-color: #222222;
 }
+
+h1 {
+	text-align: center;
+	padding-top: 30vh;
+	font-size: 5rem;
+}
