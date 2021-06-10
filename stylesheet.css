@@ -72,3 +72,10 @@ h1 {
 p {
 	text-align: center;
 }
+
+
+.container {
+	max-width: 700px;
+	padding: 30px;
+	margin: auto;
+}
